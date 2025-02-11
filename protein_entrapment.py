@@ -79,7 +79,8 @@ if __name__ == "__main__":
     main(["entrapment_", root + 'fragpipe_dda_entrapment', 'fp', 1])
 
     print("\nMetaMorpheus")
-    main(["entrapment_", root + r'metamorpheus_entrapment/Task2-SearchTask/Individual File Results/', 'mm', 1])
+    # main(["entrapment_", root + r'metamorpheus_entrapment/Task2-SearchTask/Individual File Results/', 'mm', 1])
+    main(["entrapment_", root + r'metamorpheus_entrapment_106/Task2-SearchTask/Individual File Results/', 'mm', 1])
 
     print("\nMaxQuant")
     main(["entrapment_", root + r'maxquant_entrapment/combined/txt', 'mq', 1])
